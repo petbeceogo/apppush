@@ -1,4 +1,4 @@
-module github.com/petbeceodev/apppush
+module github.com/petbeceogo/apppush
 
 go 1.19
 
