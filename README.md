@@ -1,1 +1,1 @@
-App Push Notification Module
+앱 푸쉬 알림
